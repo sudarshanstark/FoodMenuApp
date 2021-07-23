@@ -1,2 +1,2 @@
 # FoodMenuApp
-Food Menu App usinf Xamarin
+Food Menu App using Xamarin
